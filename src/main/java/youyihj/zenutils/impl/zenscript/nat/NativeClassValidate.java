@@ -47,7 +47,6 @@ public class NativeClassValidate {
         Lists.newArrayList(
                 "java.io",
                 "java.nio",
-                "java.awt",
                 "java.applet",
                 "java.rmi",
                 "java.net",
